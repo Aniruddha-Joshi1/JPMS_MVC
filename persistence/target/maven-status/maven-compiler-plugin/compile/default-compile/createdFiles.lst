@@ -1,0 +1,3 @@
+module-info.class
+com\example\entity\ExampleEntity.class
+com\example\repository\ExampleRepository.class

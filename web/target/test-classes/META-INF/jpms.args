@@ -1,0 +1,4 @@
+--patch-module
+example.web=_
+--add-reads
+example.web=ALL-UNNAMED
